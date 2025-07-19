@@ -1,0 +1,119 @@
+
+img{
+    width: 500px;
+    height: 400px;
+}
+body{
+    background-color: rgb(119, 94, 13);
+}
+.firstdiv{
+    border:5px solid rgba(80, 64, 19, 0.514);
+    padding-left:200px;
+    padding-top: 50px;
+    height:500px;
+    background-color: rgba(156, 134, 8, 0.808);
+    margin-left: 50px;
+}
+h1{
+    text-align: center;
+    font-family:Arial, Helvetica, sans-serif;
+    text-transform:uppercase;
+    text-anchor: middle;
+    background-color: rgba(10, 5, 1, 0.281);
+    font-size: 2rem;
+}
+
+.paragraph1{
+    color:rgb(7, 4, 14);
+    font-weight:bold;
+    font-size: 1.14rem;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif, cursive;
+}
+
+
+li{
+    font-size: 1.7rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif, cursive;
+}
+#first{
+    background-color: rgb(187, 163, 86);
+}
+.h21{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif, cursive;
+}
+#motto{
+    font-size: 1.2em;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif, cursive;
+}
+a{
+    color: rgb(30, 37, 35);
+}
+h4{
+    background-color: rgb(247, 247, 39);
+}
+.contact{
+    font-size: 2rem;
+    color:rgb(4, 20, 36) ;
+    font-family: sans-serif, 'Times New Roman', Times, serif;
+}
+.shoes{
+    width:250px;
+    height:250px;
+    margin-top: 30px;
+    border: solid 5px;
+    margin-left: 10px;
+}
+.shoespage{
+    background-color: rgb(129, 118, 21);
+    color: black;
+    height: 300px;
+    padding: 4px;
+}
+#description{
+  padding-left: 30px;
+  
+}
+#main{
+    height: 300px;
+    border: 3px solid  black;
+    display: flex ;
+    flex-direction: row;
+    justify-content: left;
+    border-width: solid 10px;
+    padding-bottom: 20px;
+}
+.price{
+    
+    color: rgb(15, 87, 59);
+    padding: 10px;
+    margin-left: 20px;
+    border-radius: 5px;
+    padding-top:20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.2rem;
+
+} 
+.walletspage{
+    background-color: rgb(124, 109, 55);
+    color: black;
+    height: 300px;
+    padding: 4px;
+}
+.sandalpage{
+    background-color: rgb(117, 117, 96);
+    color: black;
+    height: 300px;
+    padding: 4px;
+}
+.bagspage{
+    background-color: rgb(163, 163, 94);
+    color: black;
+    height: 300px;
+    padding: 4px;
+}
+.braceletpage{
+    background-color: rgb(163, 163, 94);
+    color: black;
+    height: 300px;
+    padding: 4px;
+}
